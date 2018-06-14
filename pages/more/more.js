@@ -15,7 +15,7 @@ Page({
       selectIndex: 1
     });
     wx.showToast({
-      title: "还没空做啊🤣",
+      title: "还没空做啊~",
       duration: 3000,
       icon: "success"
     })
@@ -27,7 +27,7 @@ Page({
       selectIndex: 2
     });
     wx.showToast({
-      title: "还没空做啊🤣",
+      title: "还没空做啊~",
       duration: 3000,
       icon: "success"
     })

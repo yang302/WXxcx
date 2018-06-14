@@ -20,7 +20,7 @@
 </view> 
 <view> 
   <text class="more_info" >友情链接（点击下面文字扫码进入）</text> 
-  <text class="{{selsectState[3]?'more_info moreSelected':'more_info'}}" bindtap='clickGithub'>本项目github地址:https://github.com/yllg </text> 
-  <text class="{{selsectState[4]?'more_info moreSelected':'more_info'}}" bindtap='clickBlog'>我的博客园地址:http://www.cnblogs.com/xuanbiyijue/</text> 
+  <text class="{{selsectState[3]?'more_info moreSelected':'more_info'}}" bindtap='clickGithub'>本项目github地址: https://github.com/yang302/WXxcx </text> 
+  <text class="{{selsectState[4]?'more_info moreSelected':'more_info'}}" bindtap='clickBlog'>我的博客园地址: http://www.cnblogs.com/qingfengweb</text> 
 </view> 
 

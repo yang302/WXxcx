@@ -10,7 +10,6 @@ page{
   /* 水平居中 */
    justify-content: center; 
 }
-.welcomeImg{
-  width: 200px;
-  height: 200px;
+.wrap .txt {
+  font-size: 40rpx;
 }

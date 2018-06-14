@@ -1,10 +1,10 @@
 // pages/welcome/welcome.js
 Page({
 
-  clickLogo:function(){
-    wx.reLaunch({
+  onLoad:function(){
+    setTimeout(() => wx.reLaunch({
       url: '../index/index'
-    });
+    }),2000);
   },
 
   onShareAppMessage: function () {
